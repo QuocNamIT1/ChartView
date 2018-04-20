@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1DBBC833-C403-4A23-A145-1E7861EA219C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChartView/ChartView/ItemShapeLayer.cs">
+    <Files>
+      <File FileName="ChartView/ChartView/ChartCustomView.cs" Line="74" Column="39" />
+      <File FileName="ChartView/ChartView/ItemShapeLayerFactory.cs" Line="29" Column="30" />
+      <File FileName="ChartView/ChartView/DrawingItemFactory.cs" Line="85" Column="35" />
+      <File FileName="ChartView/ChartView/ItemShapeLayer.cs" Line="104" Column="23" />
+      <File FileName="ChartView/ChartView/DataItemLabel.cs" Line="9" Column="1" />
+      <File FileName="ChartView/ChartView/DrawingItem.cs" Line="56" Column="118" />
+      <File FileName="ChartView/ChartViewController.cs" Line="26" Column="2" />
+      <File FileName="ChartView/ChartView/Constant.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ChartView PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B2B770BA-9C4A-40A9-B324-83D55F74A5AB">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ChartView>
+  <MultiItemStartupConfigurations />
+</Properties>

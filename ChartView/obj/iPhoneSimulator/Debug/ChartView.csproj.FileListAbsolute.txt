@@ -1,0 +1,9 @@
+/Users/namtran/Projects/ChartView/ChartView/bin/iPhoneSimulator/Debug/ChartView.exe
+/Users/namtran/Projects/ChartView/ChartView/bin/iPhoneSimulator/Debug/ChartView.pdb
+/Users/namtran/Projects/ChartView/ChartView/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/namtran/Projects/ChartView/ChartView/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/namtran/Projects/ChartView/ChartView/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/namtran/Projects/ChartView/ChartView/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
+/Users/namtran/Projects/ChartView/ChartView/obj/iPhoneSimulator/Debug/ChartView.csproj.CoreCompileInputs.cache
+/Users/namtran/Projects/ChartView/ChartView/obj/iPhoneSimulator/Debug/ChartView.exe
+/Users/namtran/Projects/ChartView/ChartView/obj/iPhoneSimulator/Debug/ChartView.pdb
